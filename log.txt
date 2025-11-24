@@ -1,3 +1,5 @@
+ecdfc9f Task 2.2 completed
+d47ee0a Task 2.1 logged
 f48fad4 Task 2.1 completed
 0469893 Task 2.1 Parts 1 to 4
 e105f62 Renamed p to performance in StatementPrinter.java
