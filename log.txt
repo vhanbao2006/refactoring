@@ -1,3 +1,9 @@
+f48fad4 Task 2.1 completed
+0469893 Task 2.1 Parts 1 to 4
+e105f62 Renamed p to performance in StatementPrinter.java
+271ac28 Created helper method from switch statement logic
+40613af Edited line 38 in StatementPrinter.java to pass tests
+ec550a7 Task 1.2, updated log.txt
 12cdd74 Task 1.1 completed; made changes to CheckStyle errors
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
